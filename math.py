@@ -1,13 +1,13 @@
-#add
+#add fn
 def add (x,y)
     return (x+y)
-#sub
+#sub fn
 def subtract(x,y)
     return (x-y)
-#mul
+#mul fn
 def multiply(x,y)
     return (x*y)
-#div
+#div fn
 def divide(x,y)
     if(y==0)                    # On master branch
         return DIVIDE_BY_0_ERROR
